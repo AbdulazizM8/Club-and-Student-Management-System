@@ -1,0 +1,40 @@
+S001|Aziz Karimov|Computer Science|aziz.k@school.edu|C001,C009
+S002|Mina Park|Mechanical Engineering|mina.p@school.edu|C001,C002
+S003|Luca Rossi|Mathematics|luca.r@school.edu|C004,C006
+S004|Sara Kim|Physics|sara.k@school.edu|C002,C008,C010
+S005|Timur Yusupov|Electrical Engineering|timur.y@school.edu|C001,C012
+S006|Hana Lee|Biology|hana.l@school.edu|C002,C009,C011
+S007|Marco Bianchi|Chemistry|marco.b@school.edu|C008,C010
+S008|Dilnoza Aliyeva|Literature|dilnoza.a@school.edu|C008
+S009|Jin Choi|Economics|jin.c@school.edu|C001,C009
+S010|Elena Conti|Art and Design|elena.c@school.edu|C003,C006,C009
+S011|Omar Hassan|Computer Science|omar.h@school.edu|C001,C008,C012
+S012|Yuna Seo|Statistics|yuna.s@school.edu|C004,C005,C006
+S013|Jisoo Han|Music|jisoo.h@school.edu|C002,C005,C012
+S014|Bekzod Rahimov|Civil Engineering|bekzod.r@school.edu|C008
+S015|Giulia Ferrari|Architecture|giulia.f@school.edu|C004,C009
+S016|Daniel Cho|Computer Science|daniel.c@school.edu|C003,C006,C008
+S017|Aisha Khan|Psychology|aisha.k@school.edu|C002,C003,C007
+S018|Noah Smith|History|noah.s@school.edu|C012
+S019|Sofia Romano|Business|sofia.r@school.edu|C004,C008
+S020|Minjun Kang|Mechanical Engineering|minjun.k@school.edu|C002,C007,C010
+S021|Madina Tursunova|Biology|madina.t@school.edu|C011,C012
+S022|Leo Martin|Physics|leo.m@school.edu|C002,C006
+S023|Eunji Yoon|Chemistry|eunji.y@school.edu|C005,C007,C009
+S024|Farrukh Nazarov|Economics|farrukh.n@school.edu|C003,C009
+S025|Chiara Greco|Literature|chiara.g@school.edu|C010,C011,C012
+S026|Taeyang Lim|Electrical Engineering|taeyang.l@school.edu|C005,C006,C008
+S027|Nilufar Saidova|Statistics|nilufar.s@school.edu|C011
+S028|Ethan Brown|Mathematics|ethan.b@school.edu|C007,C010
+S029|Hyunwoo Jung|Computer Science|hyunwoo.j@school.edu|C005,C010,C011
+S030|Anna Petrova|Art and Design|anna.p@school.edu|C002,C007,C010
+S031|Rustam Ismoilov|Business|rustam.i@school.edu|C005,C006
+S032|Mei Tanaka|Music|mei.t@school.edu|C005,C006,C012
+S033|Lucas Silva|Architecture|lucas.s@school.edu|C009
+S034|Zara Ahmed|Psychology|zara.a@school.edu|C005,C007,C008
+S035|Donghyun Ryu|Civil Engineering|donghyun.r@school.edu|C005,C011
+S036|Olivia Wilson|History|olivia.w@school.edu|C005,C012
+S037|Kamila Abdullayeva|Mathematics|kamila.a@school.edu|C004,C005
+S038|Sungmin Baek|Physics|sungmin.b@school.edu|C001,C002,C003
+S039|Emma Laurent|Literature|emma.l@school.edu|C001,C003,C005
+S040|Javlon Kodirov|Electrical Engineering|javlon.k@school.edu|C001,C002,C007

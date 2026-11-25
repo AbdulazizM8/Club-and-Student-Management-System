@@ -1,0 +1,12 @@
+C001|Robotics Club|Builds and programs robots for competitions|15|Mon 16:00|S001,S002,S005,S009,S011,S038,S039,S040
+C002|Chess Club|Weekly games and school tournaments|20|Tue 15:30|S002,S004,S006,S013,S017,S020,S022,S030,S038,S040
+C003|Drama Society|Stage plays and improv nights|12|Wed 17:00|S010,S016,S017,S024,S038,S039
+C004|Photography Club|Photo walks and editing workshops|10|Thu 16:00|S003,S012,S015,S019,S037
+C005|Coding Club|Python, web and game projects|25|Fri 15:00|S012,S013,S023,S026,S029,S031,S032,S034,S035,S036,S037,S039
+C006|Debate Team|Public speaking and debate practice|8|Mon 17:30|S003,S010,S012,S016,S022,S026,S031,S032
+C007|Music Band|Rehearsals and a concert each term|12|Tue 17:00|S017,S020,S023,S028,S030,S034,S040
+C008|Art Club|Drawing, painting and gallery visits|14|Wed 15:30|S004,S007,S008,S011,S014,S016,S019,S026,S034
+C009|Basketball Club|Practice games and friendly matches|16|Thu 17:30|S001,S006,S009,S010,S015,S023,S024,S033
+C010|Science Club|Experiments and the yearly science fair|18|Fri 16:30|S004,S007,S020,S025,S028,S029,S030
+C011|Book Club|Reads one book a month and talks about it|10|Mon 15:00|S006,S021,S025,S027,S029,S035
+C012|Dance Crew|Street and K-pop choreography|14|Sat 10:00|S005,S011,S013,S018,S021,S025,S032,S036

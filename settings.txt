@@ -1,0 +1,2 @@
+school_name= 12 - Public School 
+default_capacity= 32
