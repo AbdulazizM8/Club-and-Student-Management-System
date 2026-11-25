@@ -1,4 +1,4 @@
-''' '''
+School Club & Student Management System
 
 A desktop app for keeping track of school clubs, students and who belongs to which club.
 
