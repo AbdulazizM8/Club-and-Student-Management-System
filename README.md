@@ -52,7 +52,7 @@ RULES FOR USING:
 
 FOR RUNNING:
 
-You need Python 3.8 or newer. Tkinter comes with the normal Python installers for Windows and macOS. 
+You need Python 3.15 or newer. Tkinter comes with the normal Python installers for Windows and macOS. 
 
 Files
 
